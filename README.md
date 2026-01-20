@@ -1,6 +1,6 @@
 # 💸 App de Finanças Pessoais do Rainer com Vibe Coding
 
-PRD refinado no copilot web:
+PRD refinado com copilot web:
 
 ''' markdown
 PRD – Aplicativo de Organização de Finanças Pessoais
