@@ -86,7 +86,7 @@ Esperava interagir mais vezes gratuitamente com o Lovable, mas as interações f
   
 ### O que aprendeu sobre conversar com IAs?
 
-Entendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
+Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
   
 
 > [!TIP]
