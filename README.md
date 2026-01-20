@@ -1,6 +1,8 @@
 # 💸 App de Finanças Pessoais do Rainer com Vibe Coding
 
-PRD refinado com copilot web:
+Este projeto foi desenvolvido como um desafio de projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira baseado em interações em linguagem natural.
+
+## 1. 📝 PRD refinado com copilot web:
 
 ''' markdown
 PRD – Aplicativo de Organização de Finanças Pessoais
@@ -35,46 +37,46 @@ A proposta é simplificar o controle de gastos, eliminando a necessidade de form
 - Garantir que o design siga princípios de design universal.
   '''
   
-Interações com o Lovable:
+## 2. 💬 Interações com o Lovable:
 
 > Crie um app de finanças pessoais com base no seguinte PRD (Documento de Requisitos do Produto):  {PRD}
 > O chat do app não entendeu que deveria salvar um determinado valor na Reserva de Emergência, em vez disso, ele guarda na categoria outros. E a categoria Outros, não está sendo exibida. Você poderia verificar?
 
-Resultado final no Lovable: https://lovable.dev/projects/5195577b-9391-4b0d-89b7-c17d612989a5
+🎯 Resultado final no Lovable: https://lovable.dev/projects/5195577b-9391-4b0d-89b7-c17d612989a5
 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/c258ec6c-726c-4df9-b433-ca4ed32db86c" />
 
-# Funcionalidades do FinançaFácil
+## 3. 🔍 Funcionalidades do FinançaFácil
 
-## 1. Registro de Gastos via Chat
+## 3.1. Registro de Gastos via Chat
 - Usuário informa gastos em linguagem natural (ex.: "gastei 50 reais no almoço").
 - O assistente interpreta e registra automaticamente a transação.
 
-## 2. Atualização de Metas Financeiras
+## 3.2. Atualização de Metas Financeiras
 - Reconhecimento de frases como "guardei 100 na reserva de emergência".
 - Atualização automática das metas com feedback motivador e percentual de progresso.
 
-## 3. Classificação Automática de Transações
+## 3.3. Classificação Automática de Transações
 - Despesas categorizadas automaticamente (alimentação, transporte, lazer, etc.).
 - Gráfico de categorias expandido para incluir todas as categorias com gastos.
 
-## 4. Assistente Financeiro com Dicas
+## 3.4. Assistente Financeiro com Dicas
 - Sugestões de economia personalizadas.
 - Linguagem acessível e educativa, ideal para iniciantes.
 
-## 5. Relatórios e Resumo Personalizados
+## 3.5. Relatórios e Resumo Personalizados
 - Relatórios simples e visuais sobre gastos e metas.
 - Aba dedicada ao resumo financeiro para acompanhamento rápido.
 
-## 6. Navegação Intuitiva
+## 3.6. Navegação Intuitiva
 - Menu inferior com acesso rápido às seções: Chat, Metas, Resumo e Relatórios.
 
-## 7. Design Universal
+## 3.7. Design Universal
 - Interface inclusiva e acessível para diferentes perfis de usuários.
 - Linguagem clara, interação simples e foco em usabilidade para iniciantes e pessoas com limitações visuais ou motoras.
  
  
-## Reflexão
+## 4. 🧠 Reflexão
 
 ### O que funcionou bem?
   
@@ -88,9 +90,6 @@ Esperava interagir mais vezes gratuitamente com o Lovable, mas as interações f
 
 Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
   
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
 
